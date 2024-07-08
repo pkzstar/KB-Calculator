@@ -1,0 +1,7 @@
+.wallpaper {
+   background-image: url(https://i.imgur.com/FnU9fg8.jpeg);
+   z-index: 10;
+   background-size: cover;
+   background-position: center;
+   width: 100%;
+}
